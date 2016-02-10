@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SPI Sample</string>
+
+    <color name="black">#666666</color>
+    <color name="white">#FFFFFF</color>
+    
+    <string name="select_interface">SPI interface</string>
+    <string name="select_clock_mode">Clock mode</string>
+    <string name="select_chip_select">Chip select</string>
+    <string name="select_bit_order">Bit order</string>
+    <string name="select_word_length">Word length</string>
+    <string name="select_speed">Clock frequency (Hz)</string>
+    <string name="select_length">Read length</string>
+    <string name="open_interface">Open interface</string>
+    <string name="close_interface">Close interface</string>
+    <string name="read_button">READ DATA</string>
+    <string name="transfer_button">TRANSFER DATA</string>
+    <string name="write_button">WRITE DATA</string>
+    <string name="send_message">DATA TO SEND</string>    
+    <string name="receive_message">RECEIVED DATA</string>
+    <string name="warning_message">WARNING: If MOSI and MISO lines are directly bridged to test data transfer, touch screen will stop working!</string>
+        
+</resources>
